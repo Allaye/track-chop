@@ -7,4 +7,4 @@ The idea of the project is to have a list of meal that can be eaten within a mon
 while keeping track of its calories contents.
 
 meals eaten on any particular date can be view
-
+and also wit its calories level
